@@ -20,7 +20,7 @@ You can interact with the following editor!
 `introJs().setOptions({
   steps: [{
     title: 'Welcome',
-    intro: 'Hello World! 👋'
+    intro: 'Hello World1! 👋'
   },
   {
     element: document.querySelector('.card-demo'),
